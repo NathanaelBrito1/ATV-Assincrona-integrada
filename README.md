@@ -4,10 +4,11 @@ Requisições POST com
 Express no Node.js
 
 #CONFIGURAÇÃO DO AMBIENTE
-npm install node
 
-npm install express
+#1 - npm install node
 
-node  operações.js (NOME DO SEU ARQUIVO)
+#2 - npm install express
+
+#3 - node  operações.js (NOME DO SEU ARQUIVO)
 
 Depois da instalação, use o postman. 
